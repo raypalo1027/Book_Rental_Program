@@ -1,5 +1,5 @@
-// Name
-// Section #
+//Ray Palo
+// Section #2
 #include <iostream>
 #include <fstream>
 #include <string>
